@@ -1,5 +1,6 @@
 Create driver
 Launch browser
 Enter URL
+Click on element
 Close browser
 End
