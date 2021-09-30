@@ -1,0 +1,4 @@
+Create driver
+Launch browser
+Enter URL
+Close browser
